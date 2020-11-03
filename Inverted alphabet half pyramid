@@ -15,7 +15,7 @@ printf("\n");
 }
 return 0;
 }
-      OUTPUT
+       OUTPUT
 Enter the number of rows: 6
 123456
 23456
