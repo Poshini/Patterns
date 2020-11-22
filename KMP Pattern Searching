@@ -13,7 +13,8 @@ void computeLPS (string pattern, int *lps)
 		if (pattern[i] == pattern[len]) 
     {
 			lps[i++] = ++len;
-		} else {
+		} else 
+		{
 			if (len != 0) 
       {
 				len = lps[len-1];
