@@ -2,7 +2,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
+ 
 void computeLPS (string pattern, int *lps)
 {
 	int len = 0, i = 1;
