@@ -1,1 +1,1 @@
-# Pattern programs
+# Pattern program
