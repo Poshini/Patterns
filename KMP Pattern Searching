@@ -21,7 +21,7 @@ void computeLPS (string pattern, int *lps)
 			} else 
       {
 				lps[i++] = 0;
-			}
+			} 
 		}
 	}
 }
