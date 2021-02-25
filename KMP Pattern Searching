@@ -36,7 +36,7 @@ void KMPSearch (string text, string pattern)
   {
 		if (pattern[j] == text[i]) 
     {
-			i++;
+		        i++;
 			j++;
 		}
 		if (j == M) 
