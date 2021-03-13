@@ -17,7 +17,7 @@ void pattern(string str, int len)
         cout << endl;       
     }
 }
-int main ()
+int main () 
 {
     string str;
     cout<<"Enter string: ";
