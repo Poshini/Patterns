@@ -41,7 +41,7 @@ int main()
 		}
 	cout << endl;
 	}
-}
+} 
 
         OUTPUT
 Enter the number: 4
